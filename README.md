@@ -63,19 +63,6 @@ Python · scikit-learn · NLTK · SentenceTransformers · pandas · matplotlib
 
 ---
 
-## 📂 Project Structure
-Drug-Review-Rating-Prediction/
-│
-├── 📘 Drug_Reviews_TFIDF_vs_Embeddings.ipynb # Main Jupyter notebook
-├── 📄 Drug_Reviews_Report.pdf # Full report with analysis
-│
-├── 📁 data/
-│ ├── drugsComTrain_raw.csv # Training dataset
-│ └── drugsComTest_raw.csv # Test dataset
-│
-└── 📜 README.md
----
-
 ## 👤 Author
 **Asaf Baroch**  
 B.Sc. Software & Information Systems Engineering - Ben-Gurion University  
